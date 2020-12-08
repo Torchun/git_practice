@@ -1,1 +1,3 @@
 My first line in project @ Otus
+London is the capital of GB
+Moscow is the capital of Russia
